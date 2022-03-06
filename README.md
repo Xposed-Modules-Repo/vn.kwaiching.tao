@@ -15,6 +15,8 @@
         -天行加速器_1.2.0: 無限試用(拒絕所有權限重裝)
         -綠葉VPN_7.0.1: 破解VIP
         -PowerVPN_1.99: 破解VIP
+        -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息
+        -銀河VPN lite_V1.9.4: 去除廣告; 顯示鏈接節點信息
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -52,22 +54,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
-
-
-
-[2022.03.03]道道道_V4.18
-
-0x00. PowerVPN_1.99: 破解VIP
-
-貴族網盤
-	https://kwaiching.dudujb.com
-
-城通網盤
-	https://u062.com/d/16731109-40183208-4b8931
-	[访问密码：9214]
-
-星耀雲盤
-	http://www.starsdisk.com/space_kwaiching.html
-
-
+	
