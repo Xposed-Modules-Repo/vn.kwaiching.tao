@@ -17,6 +17,7 @@
         -PowerVPN_1.99: 破解VIP
         -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息
         -銀河VPN lite_V1.9.4: 去除廣告; 顯示鏈接節點信息
+        -佛跳牆VPN_V2.6.5: 破解登錄環境不安全; 破解VIP; 去除更新
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
