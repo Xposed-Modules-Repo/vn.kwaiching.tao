@@ -21,12 +21,10 @@
         -佛跳牆VPN_V2.6.5: 破解登錄環境不安全; 破解VIP; 去除更新
         -BitVPN_1.3.8: 解地區
         -Secure VPN_3.0.4: VIP
-        -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除數據重啟應用)
+        -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除應用數據重啟應用)
+        -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com
 
 	-城通網盤:
 	https://u062.com/d/16731109-40183208-4b8931
@@ -37,9 +35,6 @@
 	http://www.starsdisk.com/space_kwaiching.html
 
 ## 道道道:
-
-	-貴族網盤:
-	https://kwaiching.dudujb.com/folder_8098.html
 
 	-城通網盤:
 	https://url09.ctfile.com/d/16731109-41276150-4d0987
@@ -59,4 +54,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
