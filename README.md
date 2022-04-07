@@ -23,6 +23,7 @@
         -Secure VPN_3.0.4: VIP
         -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除應用數據重啟應用)
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
+        -PandaVPN_1.2.0: 去除更新
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
