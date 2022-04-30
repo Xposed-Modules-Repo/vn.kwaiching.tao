@@ -25,6 +25,7 @@
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
         -PandaVPN_1.2.0: 去除更新
         -Ant VPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
+        -黑洞 VPN_4.3.1: VIP
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -34,7 +35,7 @@
 
 
 	-星耀雲盤:
-	http://www.starsdisk.com/space_kwaiching.html
+	http://www.xingyaopan.com/space_kwaiching.html
 
 ## 道道道:
 
@@ -56,4 +57,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
