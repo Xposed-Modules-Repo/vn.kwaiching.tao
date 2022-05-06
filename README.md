@@ -24,8 +24,9 @@
         -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除應用數據重啟應用)
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
         -PandaVPN_1.2.0: 去除更新
-        -Ant VPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
-        -黑洞 VPN_4.3.1: VIP
+        -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
+        -黑洞VPN_4.3.1: VIP
+        -小哈VPN_2.1: 去除廣告
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
@@ -44,7 +45,7 @@
 	[密碼: 9214]
 
 	-星耀雲盤:
-	http://www.starsdisk.com/space_kwaiching_1559.html
+	http://www.xingyaopan.com/space_kwaiching_1559.html
 
 ## 聯絡先: / Contacts:
 
