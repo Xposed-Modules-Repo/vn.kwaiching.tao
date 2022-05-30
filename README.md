@@ -28,6 +28,7 @@
         -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
         -黑洞VPN_4.3.1: VIP
         -小哈VPN_2.1: 去除廣告
+        -小羽VPN_V0.4.0-freedom: 去除廣告; 使用高速節點
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -60,4 +61,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
+	
