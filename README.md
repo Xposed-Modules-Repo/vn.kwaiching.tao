@@ -5,6 +5,7 @@
         -Turbo VPN_3.6.3: 解地區; VIP
         -Turbo VPN Lite_1.0.10: 解地區; VIP
         -Goat VPN_3.3.1: VIP; 去除更新
+        -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
         -Green Signal VPN_1.1.14: VIP
         -VPN Robot_2.3.0: 解地區; VIP
         -Snap VPN_4.2.8: 解地區; VIP
@@ -28,7 +29,8 @@
         -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
         -黑洞VPN_4.3.1: VIP
         -小哈VPN_2.1: 去除廣告
-        -小羽VPN_V0.4.0-freedom: 去除廣告; 使用高速節點
+        -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
+        -TomVPN_2.0: 去除廣告
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -61,4 +63,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
+
+
