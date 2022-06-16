@@ -4,6 +4,7 @@
 
         -Turbo VPN_3.6.3: 解地區; VIP
         -Turbo VPN Lite_1.0.10: 解地區; VIP
+        -AdGuardVPN_1.0.259: 無限流量
         -Goat VPN_3.3.1: VIP; 去除更新
         -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
         -Green Signal VPN_1.1.14: VIP
@@ -63,5 +64,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
 
