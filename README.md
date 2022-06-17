@@ -32,6 +32,7 @@
         -小哈VPN_2.1: 去除廣告
         -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
         -TomVPN_2.0: 去除廣告
+        -YaYaVPN_1.0.2: VIP
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
