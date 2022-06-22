@@ -17,6 +17,7 @@
         -VPN Proxy Master_2.0.8: 解地區; VIP
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
+        -TodayVPN_1.7.3: 破解VIP; 去除更新
         -X-VPN_138: VIP
         -Yoga_VPN_5.4.008: 獲取 Points 強制設定為990
         -綠葉VPN_7.0.1: 破解VIP
@@ -36,6 +37,7 @@
         -TomVPN_2.0: 去除廣告
         -YaYaVPN_1.0.2: 破解VIP
         -DeltaVPN_1.7: 破解VIP; 去除更新
+        -Fast_VPN_Proxy_Secure_VPN_3.3rc: 去除廣告, 去除評分
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -68,3 +70,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+	
