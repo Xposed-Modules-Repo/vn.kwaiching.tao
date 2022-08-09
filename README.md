@@ -31,7 +31,7 @@
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
         -PandaVPN_1.2.0: 去除更新
         -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
-        -黑洞VPN_4.3.1: VIP
+        -黑洞VPN_4.3.1: VIP; 去除廣告
         -小哈VPN_2.1: 去除廣告
         -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
         -TomVPN_2.0: 去除廣告
@@ -70,4 +70,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
