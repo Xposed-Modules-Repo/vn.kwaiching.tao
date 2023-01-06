@@ -21,7 +21,7 @@
         -X-VPN_138: VIP
         -Yoga_VPN_5.4.008: 獲取 Points 強制設定為990
         -綠葉VPN_7.0.1: 破解VIP
-        -PowerVPN_1.99: 破解VIP
+        -PowerVPN_1.99/1.99-11: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
         -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息; 去除更新
         -銀河VPN lite_V1.9.4: 去除廣告; 顯示鏈接節點信息; 去除更新
         -佛跳牆VPN_V2.6.5: 破解登錄環境不安全; 破解VIP; 去除更新
@@ -71,3 +71,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
