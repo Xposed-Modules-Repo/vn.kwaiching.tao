@@ -5,6 +5,7 @@
         -Turbo VPN_3.6.3: 解地區; VIP
         -Turbo VPN Lite_1.0.10: 解地區; VIP
         -AdGuardVPN_1.0.259: 無限流量
+        -BitVPN_1.3.8/1.4.0: 破解VIP; 解鎖地區限制; 去除上傳信息; 去除Root檢測
         -FastVPN_1.2.6/1.2.7/1.2.8: 破解VIP; 解鎖地區限制\n
         -FastVPN_2.3.3: 破解VIP; 解鎖地區限制\n
         -Goat VPN_3.3.1: VIP; 去除更新
@@ -25,7 +26,6 @@
         -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息; 去除更新
         -銀河VPN lite_V1.9.4: 去除廣告; 顯示鏈接節點信息; 去除更新
         -佛跳牆VPN_V2.6.5: 破解登錄環境不安全; 破解VIP; 去除更新
-        -BitVPN_1.3.8: VIP; 解鎖地區限制
         -Secure VPN_3.0.4: VIP
         -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除應用數據重啟應用)
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
@@ -71,3 +71,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
