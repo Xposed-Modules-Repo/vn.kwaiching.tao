@@ -8,17 +8,17 @@
         -BitVPN_1.3.8/1.4.0/1.4.1: 破解VIP; 解鎖地區限制; 去除上傳信息; 去除Root檢測
         -FastVPN_1.2.6/1.2.7/1.2.8: 破解VIP; 解鎖地區限制\n
         -FastVPN_2.3.3: 破解VIP; 解鎖地區限制\n
-        -Goat VPN_3.3.1: VIP; 去除更新
+        -Goat VPN_3.4.1: 破解VIP; 去除更新
         -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
         -Green Signal VPN_1.1.14: VIP
         -VPN Robot_2.3.0: 解地區; VIP
         -Snap VPN_4.2.8: 解地區; VIP
-        -VPN Monster_1.7.6: 解地區; VIP
-        -VPN Proxy Master Lite_1.0.8: 解地區; VIP
-        -VPN Proxy Master_2.0.8: 解地區; VIP
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
         -TodayVPN_1.7.3: 破解VIP; 去除更新
+        -VPN Monster_1.7.6: 解地區; VIP
+        -VPN Proxy Master Lite_1.0.8: 解地區; VIP
+        -VPN Proxy Master_2.0.8: 解地區; VIP
         -X-VPN_138: VIP
         -Yoga_VPN_5.4.008: 獲取 Points 強制設定為990
         -綠葉VPN_7.0.1: 破解VIP
@@ -71,3 +71,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
