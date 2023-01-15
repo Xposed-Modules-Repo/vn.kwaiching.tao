@@ -20,7 +20,7 @@
         -VPN Proxy Master Lite_1.0.8: 解地區; VIP
         -VPN Proxy Master_2.0.8: 解地區; VIP
         -X-VPN_138: VIP
-        -Yoga_VPN_5.4.008: 獲取 Points 強制設定為990
+        -Yoga_VPN_5.4.008/6.1.130: 解鎖地區限制; 獲取 Points 強制設定為990
         -綠葉VPN_7.0.1: 破解VIP
         -PowerVPN_1.99/1.99-11/2.0/2.01/2.02: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
         -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息; 去除更新
@@ -71,4 +71,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
