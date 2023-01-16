@@ -36,8 +36,9 @@
         -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
         -TomVPN_2.0: 去除廣告
         -YaYaVPN_1.0.2: 破解VIP
-        -DeltaVPN_1.7: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗\n
+        -DeltaVPN_1.7: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
         -Fast_VPN_Proxy_Secure_VPN_3.3rc: 去除廣告, 去除評分
+        -天行加速器_2.7: 無限流量; 無限時長
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
