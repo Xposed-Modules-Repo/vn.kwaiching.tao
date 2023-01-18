@@ -9,9 +9,9 @@
         -FastVPN_1.2.6/1.2.7/1.2.8: 破解VIP; 解鎖地區限制\n
         -FastVPN_2.3.3: 破解VIP; 解鎖地區限制\n
         -Goat VPN_3.4.1: 破解VIP; 去除更新
-        -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
         -Green Signal VPN_1.1.14: VIP
-        -VPN Robot_2.3.0: 解地區; VIP
+        -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
+        -Secure VPN_3.0.4/4.0.1/4.0.2/4.0.3/4.0.4/4.0.6/4.0.10/4.0.12/4.0.13/4.0.14/4.0.15: 破解VIP
         -Snap VPN_4.2.8: 解地區; VIP
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
@@ -19,6 +19,7 @@
         -VPN Monster_1.7.6: 解地區; VIP
         -VPN Proxy Master Lite_1.0.8: 解地區; VIP
         -VPN Proxy Master_2.0.8: 解地區; VIP
+        -VPN Robot_2.3.0: 解地區; VIP
         -X-VPN_138: VIP
         -Yoga_VPN_5.4.008/6.1.130/6.1.140/7.0.006: 解鎖地區限制; 獲取 Points 強制設定為990
         -綠葉VPN_7.0.1: 破解VIP
@@ -26,7 +27,6 @@
         -銀河VPN_V2.0.3: 去除廣告; 顯示鏈接節點信息; 去除更新
         -銀河VPN lite_V1.9.4: 去除廣告; 顯示鏈接節點信息; 去除更新
         -佛跳牆VPN_V2.6.5: 破解登錄環境不安全; 破解VIP; 去除更新
-        -Secure VPN_3.0.4: VIP
         -天行加速器_1.2.0: 去除更新; 無限試用(試用到期; 清除應用數據重啟應用)
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
         -PandaVPN_1.2.0: 去除更新
