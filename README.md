@@ -11,7 +11,7 @@
         -Goat VPN_3.4.1: 破解VIP; 去除更新
         -Green Signal VPN_1.1.14: VIP
         -HolaVPN Plus_1.183.956: VIP; 去除評分彈窗
-        -Secure VPN_3.0.4/4.0.1/4.0.2/4.0.3/4.0.4/4.0.6/4.0.10/4.0.12/4.0.13/4.0.14/4.0.15: 破解VIP
+        -Secure VPN_3.0.4/4.0.1/4.0.2/4.0.3/4.0.4/4.0.6/4.0.10/4.0.12/4.0.13/4.0.14/4.0.15/4.1.0: 破解VIP
         -Snap VPN_4.2.8: 解地區; VIP
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
@@ -73,3 +73,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
