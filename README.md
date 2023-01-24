@@ -41,6 +41,7 @@
         -Fast_VPN_Proxy_Secure_VPN_3.3rc: 去除廣告, 去除評分
         -天行加速器_2.7: 無限流量; 無限時長
         -雷霆加速器_1.0.2: 破解VIP
+        -蜜蜂加速器_3.0.0: 破解VIP
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -74,3 +75,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+	
