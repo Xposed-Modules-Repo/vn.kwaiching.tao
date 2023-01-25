@@ -31,7 +31,7 @@
         -阿特加速器_1.1: 無限試用(試用到期; 清除應用數據重啟應用)
         -旋风加速器_1.0.9: 破解VIP
         -PandaVPN_1.2.0: 去除更新
-        -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除啟動廣告
+        -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除更新; 去除啟動廣告
         -黑洞VPN_4.3.1: VIP; 去除廣告
         -小哈VPN_2.1: 去除廣告
         -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
@@ -42,6 +42,7 @@
         -天行加速器_2.7: 無限流量; 無限時長
         -雷霆加速器_1.0.2: 破解VIP
         -蜜蜂加速器_3.0.0: 破解VIP
+        -BorderVPN_20220203.1: 去除廣告
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -75,4 +76,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-	
