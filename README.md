@@ -2,8 +2,7 @@
 
 ## 功能: / Functions:
 
-        -Turbo VPN_3.6.3: 解地區; VIP
-        -Turbo VPN Lite_1.0.10: 解地區; VIP
+        -AuroraVPN_2.9.0: 破解VIP; 啓用自動檢測線路功能; 節點顯示延遲
         -AdGuardVPN_1.0.259: 無限流量
         -BitVPN_1.3.8/1.4.0/1.4.1: 破解VIP; 解鎖地區限制; 去除上傳信息; 去除Root檢測
         -FastVPN_1.2.6/1.2.7/1.2.8: 破解VIP; 解鎖地區限制\n
@@ -16,6 +15,8 @@
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
         -TodayVPN_1.7.3: 破解VIP; 去除更新
+        -Turbo VPN_3.6.3: 解地區; VIP
+        -Turbo VPN Lite_1.0.10: 解地區; VIP
         -VPN Monster_1.7.6: 解地區; VIP
         -VPN Proxy Master Lite_1.0.8: 解地區; VIP
         -VPN Proxy Master_2.0.8: 解地區; VIP
