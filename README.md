@@ -14,7 +14,7 @@
         -Snap VPN_4.2.8: 解地區; VIP
         -SuperVPN_2.6.6: VIP
         -TenonVPN_V6.0.2P: VIP
-        -TodayVPN_1.7.3: 破解VIP; 去除更新
+        -TodayVPN_1.7.6/1.7.3: 破解VIP; 去除更新; 將重試等待時間改爲1s
         -Turbo VPN_3.6.3: 解地區; VIP
         -Turbo VPN Lite_1.0.10: 解地區; VIP
         -VPN Monster_1.7.6: 解地區; VIP
