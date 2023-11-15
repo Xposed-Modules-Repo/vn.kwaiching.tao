@@ -35,7 +35,7 @@
         -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除更新; 去除啟動廣告
         -黑洞VPN_4.3.1: VIP; 去除廣告
         -小哈VPN_2.1: 去除廣告
-        -小羽VPN_0.4.0-freedom: 去除廣告; 使用高速節點
+        -小羽 VPN_0.4.0-freedom: 去除廣告; 使用高速節點
         -TomVPN_2.0: 去除廣告
         -YaYaVPN_1.0.2: 破解VIP
         -DeltaVPN_1.7: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
@@ -45,6 +45,7 @@
         -蜜蜂加速器_3.0.2/3.0.0: 破解VIP
         -BorderVPN_20220203.1: 去除廣告
         -Wi-Fi萬能鑰匙_4.5.96/4.5.95/4.5.93: 去除更新; 去除啓動廣告; 去除主頁廣告; 去除除了鏈接Wi-Fi之外所有組件
+        -獵豹加速器_V2.2.0:屏蔽Root檢測; 屏蔽Xposed檢測; 屏蔽讀取手機儲存;無限使用VIP(到期點擊主頁 充值 修改帳號ID, 重啓軟件選設備登錄)
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -78,4 +79,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
- 
