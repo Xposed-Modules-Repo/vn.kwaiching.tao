@@ -35,7 +35,7 @@
         -AntVPN_2.4.7: 無限流量; 去除應用推廣; 去除更新; 去除啟動廣告
         -黑洞VPN_4.3.1: VIP; 去除廣告
         -小哈VPN_2.1: 去除廣告
-        -小羽 VPN_0.4.0-freedom: 去除廣告; 使用高速節點
+        -小羽 VPN_0.4.1-freedom/0.4.0-freedom: 去除廣告; 使用高速節點
         -TomVPN_2.0: 去除廣告
         -YaYaVPN_1.0.2: 破解VIP
         -DeltaVPN_1.7: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
@@ -79,4 +79,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
- 
