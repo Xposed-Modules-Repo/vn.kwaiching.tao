@@ -46,6 +46,7 @@
         -BorderVPN_20220203.1: 去除廣告
         -Wi-Fi萬能鑰匙_4.5.99/4.5.98/4.5.96/4.5.95/4.5.93: 去除更新; 去除啓動廣告; 去除主頁廣告; 去除除了鏈接Wi-Fi之外所有組件
         -獵豹加速器_V2.2.0:屏蔽Root檢測; 屏蔽Xposed檢測; 屏蔽讀取手機儲存;無限使用VIP(到期點擊主頁 充值 修改帳號ID, 重啓軟件選設備登錄)
+        -CloverVPN_V1.9: 去除首頁廣告,去除鏈接廣告
 
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
@@ -79,4 +80,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
