@@ -36,7 +36,7 @@
         -黑洞VPN_4.3.1: VIP; 去除廣告
         -小哈VPN_2.5.0: 去除首頁廣告; 去除鏈接廣告; 去除切換節點廣告
         -小羽 VPN_0.4.1-freedom/0.4.0-freedom: 去除廣告; 使用高速節點
-        -TomVPN_3.0.2/3.0.5/3.0.6: 去除首頁廣告; 去除鏈接廣告; 去除切換節點廣告
+        -TomVPN_3.0.2/3.0.5/3.0.6/3.0.7: 去除首頁廣告; 去除鏈接廣告; 去除切換節點廣告
         -YaYaVPN_1.0.2: 破解VIP
         -DeltaVPN_1.7: 破解VIP; 去除更新; 去除 Obsolete Install 彈窗; 去除評分彈窗
         -Fast_VPN_Proxy_Secure_VPN_3.3rc: 去除廣告, 去除評分
@@ -81,3 +81,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
